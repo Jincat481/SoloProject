@@ -54,3 +54,6 @@ Thumbs.db
 
 # Third-party art and animation source files are installed locally.
 /Assets/ThirdPartyArt/
+/Assets/ThirdPartyArt.meta
+/Assets/ReviewSandbox/
+/Assets/ReviewSandbox.meta

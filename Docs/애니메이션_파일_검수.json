@@ -1,0 +1,653 @@
+{
+  "editorVersion": "6000.6.0f1",
+  "note": "원본 마네킹의 임포트만 확인했다. 선택한 Synty 리타기팅과 게임 실행은 검수 전이다.",
+  "models": [
+    {
+      "path": "Assets/ThirdPartyArt/AnimationReview/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "clips": [
+        {
+          "name": "Rig|Swim_Idle_Loop",
+          "length": 3.3333334922790527,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Death01",
+          "length": 2.4000000953674316,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Sitting_Talking_Loop",
+          "length": 2.933333396911621,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Spell_Simple_Idle_Loop",
+          "length": 2.1000001430511475,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Hit_Head",
+          "length": 0.4333333671092987,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Pistol_Aim_Down",
+          "length": 0.1666666716337204,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Jump_Loop",
+          "length": 2.500000238418579,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Pistol_Reload",
+          "length": 1.6666667461395264,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Idle_Loop",
+          "length": 2.500000238418579,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Punch_Jab",
+          "length": 0.8666667342185974,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Push_Loop",
+          "length": 2.6666667461395264,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Roll_RM",
+          "length": 1.4666666984558105,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Dance_Loop",
+          "length": 1.0,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Spell_Simple_Exit",
+          "length": 0.4333333671092987,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Sitting_Enter",
+          "length": 1.3000000715255737,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Pistol_Idle_Loop",
+          "length": 1.6666667461395264,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Sitting_Idle_Loop",
+          "length": 1.6666667461395264,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Sprint_Loop",
+          "length": 0.6666666865348816,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Walk_Loop",
+          "length": 1.3333333730697632,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Sword_Idle",
+          "length": 1.6666667461395264,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Jump_Land",
+          "length": 1.2666667699813843,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|PickUp_Table",
+          "length": 0.8333333730697632,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Sword_Attack_RM",
+          "length": 1.533333420753479,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Punch_Enter",
+          "length": 0.8666667342185974,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Idle_Torch_Loop",
+          "length": 1.2666667699813843,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Sitting_Exit",
+          "length": 1.033333420753479,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Crouch_Fwd_Loop",
+          "length": 2.0,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Fixing_Kneeling",
+          "length": 5.200000286102295,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Sword_Attack",
+          "length": 1.533333420753479,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Walk_Formal_Loop",
+          "length": 1.3333333730697632,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Swim_Fwd_Loop",
+          "length": 1.3333333730697632,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Hit_Chest",
+          "length": 0.3333333432674408,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Jump_Start",
+          "length": 1.3333333730697632,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Punch_Cross",
+          "length": 1.0,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Interact",
+          "length": 2.0,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Idle_Talking_Loop",
+          "length": 2.933333396911621,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Jog_Fwd_Loop",
+          "length": 0.9333333969116211,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Roll",
+          "length": 1.4666666984558105,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Pistol_Aim_Neutral",
+          "length": 0.1666666716337204,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Spell_Simple_Enter",
+          "length": 0.5333333611488342,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Crouch_Idle_Loop",
+          "length": 2.933333396911621,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|A_TPose",
+          "length": 0.1666666716337204,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Pistol_Aim_Up",
+          "length": 0.1666666716337204,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Pistol_Shoot",
+          "length": 0.6333333849906921,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Driving_Loop",
+          "length": 1.6666667461395264,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Rig|Spell_Simple_Shoot",
+          "length": 0.5,
+          "humanMotion": true,
+          "looping": false
+        }
+      ],
+      "sourceSha256": "42f16a4ed61d1e9f5fc7c2526894c5487148ac6ba82b64281ceb7943570f3c37",
+      "humanClipCount": 46
+    },
+    {
+      "path": "Assets/ThirdPartyArt/AnimationReview/Quaternius/UAL2_Standard.fbx",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "clips": [
+        {
+          "name": "Armature|Sword_Regular_A",
+          "length": 0.4333333671092987,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Walk_Carry_Loop",
+          "length": 2.0,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Idle_Lantern_Loop",
+          "length": 2.500000238418579,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Chest_Open",
+          "length": 1.3666667938232422,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Sword_Regular_A_Rec",
+          "length": 0.9666666984558105,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Sword_Regular_B_Rec",
+          "length": 1.033333420753479,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Idle_Shield_Break",
+          "length": 1.0666667222976685,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Hit_Knockback_RM",
+          "length": 0.8333333730697632,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Slide_Exit",
+          "length": 0.5,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|A_TPose",
+          "length": 2.500000238418579,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Idle_No_Loop",
+          "length": 2.500000238418579,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Sword_Block",
+          "length": 1.2333333492279053,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Slide_Loop",
+          "length": 2.0,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Zombie_Scratch",
+          "length": 1.8000000715255737,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|NinjaJump_Idle_Loop",
+          "length": 2.0,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|TreeChopping_Loop",
+          "length": 0.9666666984558105,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Shield_Dash_RM",
+          "length": 1.100000023841858,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Idle_Rail_Loop",
+          "length": 2.500000238418579,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|LayToIdle",
+          "length": 1.533333420753479,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Consume",
+          "length": 1.3333333730697632,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Idle_Rail_Call",
+          "length": 2.500000238418579,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Yes",
+          "length": 2.500000238418579,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Zombie_Walk_Fwd_Loop",
+          "length": 1.3333333730697632,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|NinjaJump_Start",
+          "length": 0.9666666984558105,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|NinjaJump_Land",
+          "length": 1.2666667699813843,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Slide_Start",
+          "length": 0.8333333730697632,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Farm_Harvest",
+          "length": 2.500000238418579,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Shield_OneShot",
+          "length": 0.8333333730697632,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Sword_Regular_B",
+          "length": 0.5333333611488342,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Idle_TalkingPhone_Loop",
+          "length": 2.933333396911621,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Idle_Shield_Loop",
+          "length": 2.500000238418579,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Sword_Regular_C",
+          "length": 2.0,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Hit_Knockback",
+          "length": 0.8333333730697632,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Sword_Dash_RM",
+          "length": 1.5666667222976685,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Farm_Watering",
+          "length": 3.8000001907348633,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Sword_Regular_Combo",
+          "length": 3.000000238418579,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Zombie_Idle_Loop",
+          "length": 1.3333333730697632,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|ClimbUp_1m_RM",
+          "length": 0.6666666865348816,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Melee_Hook",
+          "length": 0.46666669845581055,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|OverhandThrow",
+          "length": 1.3333333730697632,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Melee_Hook_Rec",
+          "length": 0.6000000238418579,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Idle_FoldArms_Loop",
+          "length": 2.500000238418579,
+          "humanMotion": true,
+          "looping": false
+        },
+        {
+          "name": "Armature|Farm_PlantSeed",
+          "length": 2.766666889190674,
+          "humanMotion": true,
+          "looping": false
+        }
+      ],
+      "sourceSha256": "d4a2dd67bb12bf0c01891bc59ee697e04db679d26883d30bd937c2f3fb6fec90",
+      "humanClipCount": 43
+    }
+  ],
+  "errors": [],
+  "images": [
+    "Images/animation-interaction-review.png",
+    "Images/animation-glove-review.png",
+    "Images/animation-interaction-motion.gif"
+  ],
+  "checkedOn": "2026-10-26",
+  "renderPipeline": "별도 Built-in 검수 프로젝트. 본 프로젝트 URP는 검수 전이다.",
+  "sourcePages": [
+    "https://opengameart.org/content/universal-animation-library",
+    "https://opengameart.org/content/universal-animation-library-2"
+  ],
+  "avatarScope": "원본 마네킹만 확인했다. 선택한 Synty Sidekick Avatar가 아니다.",
+  "continuousSourceReview": {
+    "fps": 12,
+    "renderedFrames": 116,
+    "note": "각 원본 클립을 한 번 재생한 뒤 마지막 자세를 유지하는 시각 자료다. 상태 접합과 3초 구조 구현은 검수 전이다."
+  },
+  "rootHeightReview": {
+    "scope": "위 4개 동작의 원본 마네킹 연속 재생. 최종 Synty 적용 검수는 아니다.",
+    "observedBefore": "기본 설정에서 LayToIdle 끝 자세의 높이 저하를 시각적으로 관찰했다.",
+    "settingsAfter": {
+      "keepOriginalPositionY": false,
+      "heightFromFeet": true,
+      "lockRootHeightY": true,
+      "keepOriginalPositionXZ": false,
+      "lockRootPositionXZ": true,
+      "lockRootRotation": true,
+      "applyRootMotion": false
+    },
+    "result": "원본 마네킹의 복귀 끝 자세가 정상 높이로 돌아온 것을 확인했다. 바닥 관통과 전이는 별도 검수 대상이다.",
+    "samples": [
+      {
+        "clip": "Fixing_Kneeling",
+        "firstSample": {
+          "time": 0,
+          "rootY": 0,
+          "headY": 1.524388,
+          "footY": 0.1037
+        },
+        "lastSample": {
+          "time": 5.166667,
+          "rootY": 0,
+          "headY": 1.524566,
+          "footY": 0.1041204
+        }
+      },
+      {
+        "clip": "Interact",
+        "firstSample": {
+          "time": 0,
+          "rootY": 0,
+          "headY": 1.524388,
+          "footY": 0.1037002
+        },
+        "lastSample": {
+          "time": 1.916667,
+          "rootY": 0,
+          "headY": 1.52409,
+          "footY": 0.1036855
+        }
+      },
+      {
+        "clip": "Hit_Knockback",
+        "firstSample": {
+          "time": 0,
+          "rootY": 0,
+          "headY": 0.812554,
+          "footY": 0.1105337
+        },
+        "lastSample": {
+          "time": 0.75,
+          "rootY": 0,
+          "headY": 0.1743255,
+          "footY": 0.09399673
+        }
+      },
+      {
+        "clip": "LayToIdle",
+        "firstSample": {
+          "time": 0,
+          "rootY": 0,
+          "headY": 0.1090637,
+          "footY": 0.05707937
+        },
+        "lastSample": {
+          "time": 1.5,
+          "rootY": 0,
+          "headY": 1.537439,
+          "footY": 0.107977
+        }
+      }
+    ],
+    "source": "https://docs.unity.com/en-us/engine/6000.0/manual/animation-section/animation-mecanim/avatar-creationand-setup/root-motion"
+  }
+}
