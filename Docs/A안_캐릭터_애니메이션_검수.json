@@ -1,0 +1,2390 @@
+{
+  "editorVersion": "6000.6.0f1",
+  "models": [
+    {
+      "path": "Assets/Synty/PolygonStarter/Prefabs/Characters/SM_Bean_Cop_01.prefab",
+      "avatarValid": false,
+      "avatarHuman": false,
+      "renderers": 0,
+      "triangles": 0,
+      "shaders": []
+    },
+    {
+      "path": "Assets/Synty/PolygonStarter/Prefabs/Characters/SM_Bean_Cowboy_01.prefab",
+      "avatarValid": false,
+      "avatarHuman": false,
+      "renderers": 0,
+      "triangles": 0,
+      "shaders": []
+    },
+    {
+      "path": "Assets/Synty/PolygonStarter/Prefabs/Characters/SM_Bean_Female_01.prefab",
+      "avatarValid": false,
+      "avatarHuman": false,
+      "renderers": 0,
+      "triangles": 0,
+      "shaders": []
+    },
+    {
+      "path": "Assets/Synty/PolygonStarter/Prefabs/Characters/SM_Bean_Town_Female_01.prefab",
+      "avatarValid": false,
+      "avatarHuman": false,
+      "renderers": 0,
+      "triangles": 0,
+      "shaders": []
+    },
+    {
+      "path": "Assets/Synty/PolygonStarter/Prefabs/Characters/SM_Chr_Female_01.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 2,
+      "triangles": 2196,
+      "shaders": [
+        "Synty/Generic_Basic"
+      ]
+    },
+    {
+      "path": "Assets/Synty/PolygonStarter/Prefabs/Characters/SM_Chr_Male_01.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 2,
+      "triangles": 2196,
+      "shaders": [
+        "Synty/Generic_Basic"
+      ]
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Characters/HumanSpecies/HumanSpecies_01/HumanSpecies_01.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "triangles": 5714,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Characters/HumanSpecies/HumanSpecies_02/HumanSpecies_02.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "triangles": 7654,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Characters/HumanSpecies/HumanSpecies_03/HumanSpecies_03.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "triangles": 6468,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Characters/HumanSpecies/HumanSpecies_04/HumanSpecies_04.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "triangles": 6732,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Characters/Starter/Starter_01/Starter_01.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "triangles": 19857,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Characters/Starter/Starter_02/Starter_02.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "triangles": 20598,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Characters/Starter/Starter_03/Starter_03.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "triangles": 15036,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    },
+    {
+      "path": "Assets/Synty/SidekickCharacters/Characters/Starter/Starter_04/Starter_04.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "triangles": 7188,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    }
+  ],
+  "clips": [
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_BackwardRight.fbx",
+      "name": "HumanF@Run01_BackwardRight",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Right [RM].fbx",
+      "name": "HumanM@Walk01_Right [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01.fbx",
+      "name": "HumanM@Jump01",
+      "length": 1.533333420753479,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanM@ObjectBook01_R.fbx",
+      "name": "HumanM@ObjectBook01_R",
+      "length": 0.30000001192092896,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanF@WeaponHoldPolearm01.fbx",
+      "name": "HumanF@WeaponHoldPolearm01",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/1H/HumanF@Attack1H01_R.fbx",
+      "name": "HumanF@Attack1H01_R",
+      "length": 1.100000023841858,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Forward.fbx",
+      "name": "HumanF@Run01_Forward",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle03-Idle01.fbx",
+      "name": "HumanF@Idle03-Idle01",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_ForwardRight.fbx",
+      "name": "HumanF@Run01_ForwardRight",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_Right.fbx",
+      "name": "HumanF@Walk01_Right",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/HumanF@Death01.fbx",
+      "name": "HumanF@Death01",
+      "length": 0.7333333492279053,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_Left.fbx",
+      "name": "HumanF@Sprint01_Left",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle03-Idle01.fbx",
+      "name": "HumanM@Idle03-Idle01",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01.fbx",
+      "name": "HumanF@Jump01",
+      "length": 1.533333420753479,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_ForwardLeft [RM].fbx",
+      "name": "HumanM@Sprint01_ForwardLeft [RM]",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_BackwardRight.fbx",
+      "name": "HumanF@Walk01_BackwardRight",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Call/HumanF@MagicAttackCall1H01_L.fbx",
+      "name": "HumanF@MagicAttackCall1H01_L",
+      "length": 1.3666667938232422,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_Backward [RM].fbx",
+      "name": "HumanM@Run01_Backward [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_Right.fbx",
+      "name": "HumanF@Sprint01_Right",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Strafe/StrafeRun/HumanM@StrafeRun01_BackwardLeft.fbx",
+      "name": "HumanM@StrafeRun01_BackwardLeft",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_ForwardLeft [RM].fbx",
+      "name": "HumanF@Walk01_ForwardLeft [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_BackwardLeft [RM].fbx",
+      "name": "HumanM@Walk01_BackwardLeft [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Strafe/StrafeRun/RootMotion/HumanF@StrafeRun01_BackwardRight [RM].fbx",
+      "name": "HumanF@StrafeRun01_BackwardRight [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Strafe/StrafeRun/HumanM@StrafeRun01_ForwardRight.fbx",
+      "name": "HumanM@StrafeRun01_ForwardRight",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 - Begin.fbx",
+      "name": "HumanM@Jump01 - Begin",
+      "length": 0.6666666865348816,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Strafe/StrafeRun/RootMotion/HumanF@StrafeRun01_Left [RM].fbx",
+      "name": "HumanF@StrafeRun01_Left [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Forward.fbx",
+      "name": "HumanM@Walk01_Forward",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/1H/HumanF@CombatIdle1H01.fbx",
+      "name": "HumanF@CombatIdle1H01",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/HumanM@CombatDamage01.fbx",
+      "name": "HumanM@CombatDamage01",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Backward.fbx",
+      "name": "HumanM@Walk01_Backward",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_Left.fbx",
+      "name": "HumanM@Sprint01_Left",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/HumanM@CombatIdle01.fbx",
+      "name": "HumanM@CombatIdle01",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_ForwardLeft.fbx",
+      "name": "HumanM@Sprint01_ForwardLeft",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_Forward.fbx",
+      "name": "HumanF@Sprint01_Forward",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle01-Idle02.fbx",
+      "name": "HumanM@Idle01-Idle02",
+      "length": 0.6666666865348816,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_BackwardLeft.fbx",
+      "name": "HumanM@Run01_BackwardLeft",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Strafe/StrafeRun/RootMotion/HumanM@StrafeRun01_BackwardRight [RM].fbx",
+      "name": "HumanM@StrafeRun01_BackwardRight [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Social/Conversation/HumanM@Talk01.fbx",
+      "name": "HumanM@Talk01",
+      "length": 2.266666889190674,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_ForwardLeft.fbx",
+      "name": "HumanF@Sprint01_ForwardLeft",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Directional/HumanF@MagicAttackDirect2H01 - Cast.fbx",
+      "name": "HumanF@MagicAttackDirect2H01 - Cast",
+      "length": 0.9666666984558105,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Right [RM].fbx",
+      "name": "HumanM@Turn01_Right [RM]",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_ForwardRight [RM].fbx",
+      "name": "HumanF@Sprint01_ForwardRight [RM]",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Forward [RM].fbx",
+      "name": "HumanM@Walk01_Forward [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Directional/HumanM@MagicAttackDirect1H01_R - Cast.fbx",
+      "name": "HumanM@MagicAttackDirect1H01_R - Cast",
+      "length": 0.9333333969116211,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Directional/HumanF@MagicAttackDirect1H01_R - Cast.fbx",
+      "name": "HumanF@MagicAttackDirect1H01_R - Cast",
+      "length": 0.9333333969116211,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle02-Idle01.fbx",
+      "name": "HumanM@Idle02-Idle01",
+      "length": 0.7666667103767395,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_ForwardRight [RM].fbx",
+      "name": "HumanM@Sprint01_ForwardRight [RM]",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_ForwardRight [RM].fbx",
+      "name": "HumanF@Run01_ForwardRight [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 [RM].fbx",
+      "name": "HumanF@Jump01 [RM]",
+      "length": 1.533333420753479,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/HumanF@CombatDamage01.fbx",
+      "name": "HumanF@CombatDamage01",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanM@ObjectGripShoulder02_R.fbx",
+      "name": "HumanM@ObjectGripShoulder02_R",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Left.fbx",
+      "name": "HumanF@Run01_Left",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 [RM] - Begin.fbx",
+      "name": "HumanM@Jump01 [RM] - Begin",
+      "length": 0.6666666865348816,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_BackwardRight [RM].fbx",
+      "name": "HumanF@Walk01_BackwardRight [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Fall01.fbx",
+      "name": "HumanF@Fall01",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Forward [RM].fbx",
+      "name": "HumanF@Walk01_Forward [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Strafe/StrafeRun/HumanM@StrafeRun01_Left.fbx",
+      "name": "HumanM@StrafeRun01_Left",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_Left [RM].fbx",
+      "name": "HumanF@Sprint01_Left [RM]",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/2H/HumanM@Attack2H01.fbx",
+      "name": "HumanM@Attack2H01",
+      "length": 1.6000001430511475,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Strafe/StrafeRun/HumanM@StrafeRun01_Right.fbx",
+      "name": "HumanM@StrafeRun01_Right",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/1H/HumanF@Attack1H01_L.fbx",
+      "name": "HumanF@Attack1H01_L",
+      "length": 1.100000023841858,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/HumanF@CastingExit01.fbx",
+      "name": "HumanF@CastingExit01",
+      "length": 1.2000000476837158,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 [RM].fbx",
+      "name": "HumanM@Jump01 [RM]",
+      "length": 1.533333420753479,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/HumanM@CastingIdle01.fbx",
+      "name": "HumanM@CastingIdle01",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle01-Idle02.fbx",
+      "name": "HumanF@Idle01-Idle02",
+      "length": 0.6666666865348816,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Polearm/HumanM@AttackPolearm01.fbx",
+      "name": "HumanM@AttackPolearm01",
+      "length": 1.3666667938232422,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Fall01.fbx",
+      "name": "HumanM@Fall01",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Strafe/StrafeRun/RootMotion/HumanM@StrafeRun01_ForwardLeft [RM].fbx",
+      "name": "HumanM@StrafeRun01_ForwardLeft [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle02.fbx",
+      "name": "HumanF@Idle02",
+      "length": 2.700000047683716,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/HumanF@CastingIdle01.fbx",
+      "name": "HumanF@CastingIdle01",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanM@ObjectGripShoulder01_L.fbx",
+      "name": "HumanM@ObjectGripShoulder01_L",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle03.fbx",
+      "name": "HumanF@Idle03",
+      "length": 2.6666667461395264,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Directional/HumanF@MagicAttackDirect1H01_L - Load.fbx",
+      "name": "HumanF@MagicAttackDirect1H01_L - Load",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Left [RM].fbx",
+      "name": "HumanM@Turn01_Left [RM]",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Polearm/HumanF@AttackPolearm01.fbx",
+      "name": "HumanF@AttackPolearm01",
+      "length": 1.3666667938232422,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Directional/HumanF@MagicAttackDirect1H01_L.fbx",
+      "name": "HumanF@MagicAttackDirect1H01_L",
+      "length": 1.2000000476837158,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Right.fbx",
+      "name": "HumanM@Run01_Right",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Polearm/HumanF@CombatIdlePolearm01.fbx",
+      "name": "HumanF@CombatIdlePolearm01",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Strafe/StrafeRun/RootMotion/HumanM@StrafeRun01_Right [RM].fbx",
+      "name": "HumanM@StrafeRun01_Right [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn/HumanF@Turn01_Right.fbx",
+      "name": "HumanF@Turn01_Right",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/1H/HumanM@CombatIdle1H01.fbx",
+      "name": "HumanM@CombatIdle1H01",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Strafe/StrafeRun/HumanF@StrafeRun01_BackwardLeft.fbx",
+      "name": "HumanF@StrafeRun01_BackwardLeft",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_BackwardLeft [RM].fbx",
+      "name": "HumanM@Run01_BackwardLeft [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Right.fbx",
+      "name": "HumanF@Run01_Right",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_ForwardLeft [RM].fbx",
+      "name": "HumanF@Sprint01_ForwardLeft [RM]",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Strafe/StrafeRun/HumanF@StrafeRun01_ForwardRight.fbx",
+      "name": "HumanF@StrafeRun01_ForwardRight",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_ForwardRight.fbx",
+      "name": "HumanM@Run01_ForwardRight",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Strafe/StrafeRun/HumanF@StrafeRun01_Right.fbx",
+      "name": "HumanF@StrafeRun01_Right",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Call/HumanM@MagicAttackCall1H01_L.fbx",
+      "name": "HumanM@MagicAttackCall1H01_L",
+      "length": 1.3666667938232422,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_BackwardRight.fbx",
+      "name": "HumanM@Walk01_BackwardRight",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_BackwardRight [RM].fbx",
+      "name": "HumanF@Run01_BackwardRight [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanF@ObjectBook01_L.fbx",
+      "name": "HumanF@ObjectBook01_L",
+      "length": 0.30000001192092896,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanF@ObjectGripShoulder01_R.fbx",
+      "name": "HumanF@ObjectGripShoulder01_R",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_Forward [RM].fbx",
+      "name": "HumanM@Run01_Forward [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle02.fbx",
+      "name": "HumanM@Idle02",
+      "length": 2.700000047683716,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_ForwardRight [RM].fbx",
+      "name": "HumanM@Walk01_ForwardRight [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_Forward [RM].fbx",
+      "name": "HumanF@Run01_Forward [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Left [RM].fbx",
+      "name": "HumanF@Walk01_Left [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_Right.fbx",
+      "name": "HumanM@Sprint01_Right",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_BackwardLeft [RM].fbx",
+      "name": "HumanF@Run01_BackwardLeft [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/HumanM@Death01.fbx",
+      "name": "HumanM@Death01",
+      "length": 0.7333333492279053,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_Backward.fbx",
+      "name": "HumanF@Walk01_Backward",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_ForwardLeft [RM].fbx",
+      "name": "HumanM@Run01_ForwardLeft [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle01.fbx",
+      "name": "HumanM@Idle01",
+      "length": 2.700000047683716,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle01-Idle03.fbx",
+      "name": "HumanM@Idle01-Idle03",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Shield/HumanF@AttackShield01.fbx",
+      "name": "HumanF@AttackShield01",
+      "length": 0.9000000357627869,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanF@ObjectGripShoulder01_L.fbx",
+      "name": "HumanF@ObjectGripShoulder01_L",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Backward [RM].fbx",
+      "name": "HumanM@Walk01_Backward [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanF@WeaponHold2H01.fbx",
+      "name": "HumanF@WeaponHold2H01",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Strafe/StrafeRun/HumanM@StrafeRun01_BackwardRight.fbx",
+      "name": "HumanM@StrafeRun01_BackwardRight",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_Left [RM].fbx",
+      "name": "HumanM@Sprint01_Left [RM]",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Strafe/StrafeRun/HumanF@StrafeRun01_Left.fbx",
+      "name": "HumanF@StrafeRun01_Left",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Directional/HumanM@MagicAttackDirect1H01_R - Load.fbx",
+      "name": "HumanM@MagicAttackDirect1H01_R - Load",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_BackwardRight [RM].fbx",
+      "name": "HumanM@Run01_BackwardRight [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_Right [RM].fbx",
+      "name": "HumanF@Run01_Right [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_ForwardLeft.fbx",
+      "name": "HumanF@Walk01_ForwardLeft",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_ForwardRight.fbx",
+      "name": "HumanM@Sprint01_ForwardRight",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_Right [RM].fbx",
+      "name": "HumanM@Sprint01_Right [RM]",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Directional/HumanM@MagicAttackDirect2H01 - Load.fbx",
+      "name": "HumanM@MagicAttackDirect2H01 - Load",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Left.fbx",
+      "name": "HumanM@Walk01_Left",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Backward.fbx",
+      "name": "HumanF@Run01_Backward",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Strafe/StrafeRun/RootMotion/HumanM@StrafeRun01_Left [RM].fbx",
+      "name": "HumanM@StrafeRun01_Left [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_Left [RM].fbx",
+      "name": "HumanF@Run01_Left [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/HumanM@CastingDamage01.fbx",
+      "name": "HumanM@CastingDamage01",
+      "length": 1.100000023841858,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/HumanF@CastingEnter01.fbx",
+      "name": "HumanF@CastingEnter01",
+      "length": 0.7000000476837158,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Omnidirectional/HumanM@MagicAttackOmni01 - Load.fbx",
+      "name": "HumanM@MagicAttackOmni01 - Load",
+      "length": 1.633333444595337,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/2H/HumanF@Attack2H01.fbx",
+      "name": "HumanF@Attack2H01",
+      "length": 1.6000001430511475,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_Backward [RM].fbx",
+      "name": "HumanF@Run01_Backward [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanF@ObjectBook01_R.fbx",
+      "name": "HumanF@ObjectBook01_R",
+      "length": 0.30000001192092896,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Strafe/StrafeRun/RootMotion/HumanF@StrafeRun01_ForwardRight [RM].fbx",
+      "name": "HumanF@StrafeRun01_ForwardRight [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Left [RM].fbx",
+      "name": "HumanM@Walk01_Left [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Backward.fbx",
+      "name": "HumanM@Run01_Backward",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_ForwardRight.fbx",
+      "name": "HumanF@Walk01_ForwardRight",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Strafe/StrafeRun/RootMotion/HumanF@StrafeRun01_BackwardLeft [RM].fbx",
+      "name": "HumanF@StrafeRun01_BackwardLeft [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 [RM] - Begin.fbx",
+      "name": "HumanF@Jump01 [RM] - Begin",
+      "length": 0.6666666865348816,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanM@ObjectGripShoulder02_L.fbx",
+      "name": "HumanM@ObjectGripShoulder02_L",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Directional/HumanM@MagicAttackDirect1H01_L.fbx",
+      "name": "HumanM@MagicAttackDirect1H01_L",
+      "length": 1.2000000476837158,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Call/HumanM@MagicAttackCall1H01_L - Load.fbx",
+      "name": "HumanM@MagicAttackCall1H01_L - Load",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Omnidirectional/HumanM@MagicAttackOmni01 - Cast.fbx",
+      "name": "HumanM@MagicAttackOmni01 - Cast",
+      "length": 1.3000000715255737,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Shield/HumanM@AttackShield01.fbx",
+      "name": "HumanM@AttackShield01",
+      "length": 0.9000000357627869,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Strafe/StrafeRun/RootMotion/HumanF@StrafeRun01_Right [RM].fbx",
+      "name": "HumanF@StrafeRun01_Right [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/HumanF@CastingDamage01.fbx",
+      "name": "HumanF@CastingDamage01",
+      "length": 1.100000023841858,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn/HumanF@Turn01_Right [RM].fbx",
+      "name": "HumanF@Turn01_Right [RM]",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle01-Idle03.fbx",
+      "name": "HumanF@Idle01-Idle03",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/Human@ObjectGripHands01.fbx",
+      "name": "Human@ObjectGripHands01",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Omnidirectional/HumanM@MagicAttackOmni01.fbx",
+      "name": "HumanM@MagicAttackOmni01",
+      "length": 1.5666667222976685,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 - Land.fbx",
+      "name": "HumanM@Jump01 - Land",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_Right [RM].fbx",
+      "name": "HumanM@Run01_Right [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Omnidirectional/HumanF@MagicAttackOmni01 - Cast.fbx",
+      "name": "HumanF@MagicAttackOmni01 - Cast",
+      "length": 1.3000000715255737,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/2H/HumanF@CombatIdle2H01.fbx",
+      "name": "HumanF@CombatIdle2H01",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_ForwardLeft.fbx",
+      "name": "HumanM@Walk01_ForwardLeft",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_Forward [RM].fbx",
+      "name": "HumanM@Sprint01_Forward [RM]",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/HumanF@CombatIdle01.fbx",
+      "name": "HumanF@CombatIdle01",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Right [RM].fbx",
+      "name": "HumanF@Walk01_Right [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Directional/HumanM@MagicAttackDirect1H01_L - Cast.fbx",
+      "name": "HumanM@MagicAttackDirect1H01_L - Cast",
+      "length": 0.9333333969116211,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_BackwardRight [RM].fbx",
+      "name": "HumanM@Walk01_BackwardRight [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Polearm/HumanM@CombatIdlePolearm01.fbx",
+      "name": "HumanM@CombatIdlePolearm01",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn/HumanF@Turn01_Left [RM].fbx",
+      "name": "HumanF@Turn01_Left [RM]",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_BackwardRight.fbx",
+      "name": "HumanM@Run01_BackwardRight",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_BackwardLeft.fbx",
+      "name": "HumanF@Walk01_BackwardLeft",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle02-Idle01.fbx",
+      "name": "HumanF@Idle02-Idle01",
+      "length": 0.7666667103767395,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 [RM] - Land.fbx",
+      "name": "HumanM@Jump01 [RM] - Land",
+      "length": 0.6666666865348816,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_BackwardLeft [RM].fbx",
+      "name": "HumanF@Walk01_BackwardLeft [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_ForwardRight [RM].fbx",
+      "name": "HumanF@Walk01_ForwardRight [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 - Begin.fbx",
+      "name": "HumanF@Jump01 - Begin",
+      "length": 0.6666666865348816,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Directional/HumanM@MagicAttackDirect1H01_L - Load.fbx",
+      "name": "HumanM@MagicAttackDirect1H01_L - Load",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/HumanM@CastingExit01.fbx",
+      "name": "HumanM@CastingExit01",
+      "length": 1.2000000476837158,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Strafe/StrafeRun/HumanM@StrafeRun01_ForwardLeft.fbx",
+      "name": "HumanM@StrafeRun01_ForwardLeft",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_ForwardRight.fbx",
+      "name": "HumanF@Sprint01_ForwardRight",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Sprint_Loop",
+      "length": 0.6666666865348816,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Walk_Loop",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Sword_Idle",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Spell_Simple_Shoot",
+      "length": 0.5,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Jump_Land",
+      "length": 1.2666667699813843,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|PickUp_Table",
+      "length": 0.8333333730697632,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Sword_Attack_RM",
+      "length": 1.533333420753479,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Punch_Enter",
+      "length": 0.8666667342185974,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Idle_Torch_Loop",
+      "length": 1.2666667699813843,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Sitting_Exit",
+      "length": 1.033333420753479,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Crouch_Fwd_Loop",
+      "length": 2.0,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Fixing_Kneeling",
+      "length": 5.200000286102295,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Sword_Attack",
+      "length": 1.533333420753479,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Walk_Formal_Loop",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Swim_Fwd_Loop",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Hit_Chest",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Jump_Start",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Punch_Cross",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Interact",
+      "length": 2.0,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Idle_Talking_Loop",
+      "length": 2.933333396911621,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Jog_Fwd_Loop",
+      "length": 0.9333333969116211,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Roll",
+      "length": 1.4666666984558105,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Pistol_Aim_Neutral",
+      "length": 0.1666666716337204,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Spell_Simple_Enter",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Crouch_Idle_Loop",
+      "length": 2.933333396911621,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|A_TPose",
+      "length": 0.1666666716337204,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Pistol_Aim_Up",
+      "length": 0.1666666716337204,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Pistol_Shoot",
+      "length": 0.6333333849906921,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Driving_Loop",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Death01",
+      "length": 2.4000000953674316,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Sitting_Talking_Loop",
+      "length": 2.933333396911621,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Spell_Simple_Idle_Loop",
+      "length": 2.1000001430511475,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Hit_Head",
+      "length": 0.4333333671092987,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Pistol_Aim_Down",
+      "length": 0.1666666716337204,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Swim_Idle_Loop",
+      "length": 3.3333334922790527,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Jump_Loop",
+      "length": 2.500000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Pistol_Reload",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Idle_Loop",
+      "length": 2.500000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Punch_Jab",
+      "length": 0.8666667342185974,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Push_Loop",
+      "length": 2.6666667461395264,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Roll_RM",
+      "length": 1.4666666984558105,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Dance_Loop",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Spell_Simple_Exit",
+      "length": 0.4333333671092987,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Sitting_Enter",
+      "length": 1.3000000715255737,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Pistol_Idle_Loop",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/AnimationLibrary_Unity_Standard.fbx",
+      "name": "Rig|Sitting_Idle_Loop",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_ForwardLeft [RM].fbx",
+      "name": "HumanM@Walk01_ForwardLeft [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Right.fbx",
+      "name": "HumanM@Walk01_Right",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanM@WeaponHoldPolearm01.fbx",
+      "name": "HumanM@WeaponHoldPolearm01",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Omnidirectional/HumanF@MagicAttackOmni01.fbx",
+      "name": "HumanF@MagicAttackOmni01",
+      "length": 1.5666667222976685,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_ForwardRight [RM].fbx",
+      "name": "HumanM@Run01_ForwardRight [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn/HumanF@Turn01_Left.fbx",
+      "name": "HumanF@Turn01_Left",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Directional/HumanM@MagicAttackDirect2H01 - Cast.fbx",
+      "name": "HumanM@MagicAttackDirect2H01 - Cast",
+      "length": 0.9666666984558105,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Directional/HumanF@MagicAttackDirect1H01_R - Load.fbx",
+      "name": "HumanF@MagicAttackDirect1H01_R - Load",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_Forward [RM].fbx",
+      "name": "HumanF@Sprint01_Forward [RM]",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/1H/HumanM@Attack1H01_L.fbx",
+      "name": "HumanM@Attack1H01_L",
+      "length": 1.100000023841858,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle03.fbx",
+      "name": "HumanM@Idle03",
+      "length": 2.6666667461395264,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 - Land.fbx",
+      "name": "HumanF@Jump01 - Land",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_Forward.fbx",
+      "name": "HumanF@Walk01_Forward",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_ForwardLeft.fbx",
+      "name": "HumanM@Run01_ForwardLeft",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 [RM] - Land.fbx",
+      "name": "HumanF@Jump01 [RM] - Land",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanM@WeaponHold2H01.fbx",
+      "name": "HumanM@WeaponHold2H01",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanF@ObjectGripShoulder02_R.fbx",
+      "name": "HumanF@ObjectGripShoulder02_R",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Call/HumanF@MagicAttackCall1H01_L - Load.fbx",
+      "name": "HumanF@MagicAttackCall1H01_L - Load",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanM@ObjectGripShoulder01_R.fbx",
+      "name": "HumanM@ObjectGripShoulder01_R",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_BackwardLeft.fbx",
+      "name": "HumanM@Walk01_BackwardLeft",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Forward.fbx",
+      "name": "HumanM@Run01_Forward",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Strafe/StrafeRun/HumanF@StrafeRun01_ForwardLeft.fbx",
+      "name": "HumanF@StrafeRun01_ForwardLeft",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Directional/HumanF@MagicAttackDirect1H01_L - Cast.fbx",
+      "name": "HumanF@MagicAttackDirect1H01_L - Cast",
+      "length": 0.9333333969116211,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Call/HumanM@MagicAttackCall1H01_L - Cast.fbx",
+      "name": "HumanM@MagicAttackCall1H01_L - Cast",
+      "length": 0.9000000357627869,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_Right [RM].fbx",
+      "name": "HumanF@Sprint01_Right [RM]",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_ForwardLeft.fbx",
+      "name": "HumanF@Run01_ForwardLeft",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_Left [RM].fbx",
+      "name": "HumanM@Run01_Left [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_ForwardRight.fbx",
+      "name": "HumanM@Walk01_ForwardRight",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanM@ObjectBook01_L.fbx",
+      "name": "HumanM@ObjectBook01_L",
+      "length": 0.30000001192092896,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Directional/HumanM@MagicAttackDirect1H01_R.fbx",
+      "name": "HumanM@MagicAttackDirect1H01_R",
+      "length": 1.2000000476837158,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Right.fbx",
+      "name": "HumanM@Turn01_Right",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Strafe/StrafeRun/RootMotion/HumanM@StrafeRun01_ForwardRight [RM].fbx",
+      "name": "HumanM@StrafeRun01_ForwardRight [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_Left.fbx",
+      "name": "HumanF@Walk01_Left",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Backward [RM].fbx",
+      "name": "HumanF@Walk01_Backward [RM]",
+      "length": 0.8000000715255737,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Directional/HumanF@MagicAttackDirect1H01_R.fbx",
+      "name": "HumanF@MagicAttackDirect1H01_R",
+      "length": 1.2000000476837158,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/Human@HandsClosed01.fbx",
+      "name": "Human@HandsClosed01",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Call/HumanF@MagicAttackCall1H01_L - Cast.fbx",
+      "name": "HumanF@MagicAttackCall1H01_L - Cast",
+      "length": 0.9000000357627869,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Directional/HumanF@MagicAttackDirect2H01 - Load.fbx",
+      "name": "HumanF@MagicAttackDirect2H01 - Load",
+      "length": 1.6666667461395264,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/2H/HumanM@CombatIdle2H01.fbx",
+      "name": "HumanM@CombatIdle2H01",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Zombie_Idle_Loop",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|ClimbUp_1m_RM",
+      "length": 0.6666666865348816,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Melee_Hook",
+      "length": 0.46666669845581055,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|OverhandThrow",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Melee_Hook_Rec",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Idle_FoldArms_Loop",
+      "length": 2.500000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Farm_PlantSeed",
+      "length": 2.766666889190674,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Consume",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Idle_Rail_Call",
+      "length": 2.500000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Yes",
+      "length": 2.500000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Zombie_Walk_Fwd_Loop",
+      "length": 1.3333333730697632,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|NinjaJump_Start",
+      "length": 0.9666666984558105,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|NinjaJump_Land",
+      "length": 1.2666667699813843,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Slide_Start",
+      "length": 0.8333333730697632,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Farm_Harvest",
+      "length": 2.500000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Shield_OneShot",
+      "length": 0.8333333730697632,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Sword_Regular_B",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Idle_TalkingPhone_Loop",
+      "length": 2.933333396911621,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Idle_Shield_Loop",
+      "length": 2.500000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Sword_Regular_C",
+      "length": 2.0,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Hit_Knockback",
+      "length": 0.8333333730697632,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Sword_Dash_RM",
+      "length": 1.5666667222976685,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Farm_Watering",
+      "length": 3.8000001907348633,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Sword_Regular_Combo",
+      "length": 3.000000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|LayToIdle",
+      "length": 1.533333420753479,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Idle_Rail_Loop",
+      "length": 2.500000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Shield_Dash_RM",
+      "length": 1.100000023841858,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|TreeChopping_Loop",
+      "length": 0.9666666984558105,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|NinjaJump_Idle_Loop",
+      "length": 2.0,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Zombie_Scratch",
+      "length": 1.8000000715255737,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Sword_Regular_A",
+      "length": 0.4333333671092987,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Slide_Exit",
+      "length": 0.5,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Walk_Carry_Loop",
+      "length": 2.0,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Idle_Lantern_Loop",
+      "length": 2.500000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|A_TPose",
+      "length": 2.500000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Idle_No_Loop",
+      "length": 2.500000238418579,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Sword_Block",
+      "length": 1.2333333492279053,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Slide_Loop",
+      "length": 2.0,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Chest_Open",
+      "length": 1.3666667938232422,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Sword_Regular_A_Rec",
+      "length": 0.9666666984558105,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Sword_Regular_B_Rec",
+      "length": 1.033333420753479,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Idle_Shield_Break",
+      "length": 1.0666667222976685,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/ReviewSources/Quaternius/UAL2_Standard.fbx",
+      "name": "Armature|Hit_Knockback_RM",
+      "length": 0.8333333730697632,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle01.fbx",
+      "name": "HumanF@Idle01",
+      "length": 2.700000047683716,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Strafe/StrafeRun/HumanF@StrafeRun01_BackwardRight.fbx",
+      "name": "HumanF@StrafeRun01_BackwardRight",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_BackwardLeft.fbx",
+      "name": "HumanF@Run01_BackwardLeft",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/HumanM@CastingEnter01.fbx",
+      "name": "HumanM@CastingEnter01",
+      "length": 0.7000000476837158,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/HumanF@ObjectGripShoulder02_L.fbx",
+      "name": "HumanF@ObjectGripShoulder02_L",
+      "length": 0.3333333432674408,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Strafe/StrafeRun/RootMotion/HumanM@StrafeRun01_BackwardLeft [RM].fbx",
+      "name": "HumanM@StrafeRun01_BackwardLeft [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Left.fbx",
+      "name": "HumanM@Turn01_Left",
+      "length": 1.0,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Strafe/StrafeRun/RootMotion/HumanF@StrafeRun01_ForwardLeft [RM].fbx",
+      "name": "HumanF@StrafeRun01_ForwardLeft [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Omnidirectional/HumanF@MagicAttackOmni01 - Load.fbx",
+      "name": "HumanF@MagicAttackOmni01 - Load",
+      "length": 1.633333444595337,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/Spellcasting/MagicAttacks/Directional/HumanM@MagicAttackDirect2H01.fbx",
+      "name": "HumanM@MagicAttackDirect2H01",
+      "length": 1.6000001430511475,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Left.fbx",
+      "name": "HumanM@Run01_Left",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Directional/HumanF@MagicAttackDirect2H01.fbx",
+      "name": "HumanF@MagicAttackDirect2H01",
+      "length": 1.6000001430511475,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_ForwardLeft [RM].fbx",
+      "name": "HumanF@Run01_ForwardLeft [RM]",
+      "length": 0.6000000238418579,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_Forward.fbx",
+      "name": "HumanM@Sprint01_Forward",
+      "length": 0.5333333611488342,
+      "humanoid": true,
+      "loop": true
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/1H/HumanM@Attack1H01_R.fbx",
+      "name": "HumanM@Attack1H01_R",
+      "length": 1.100000023841858,
+      "humanoid": true,
+      "loop": false
+    },
+    {
+      "path": "Assets/Kevin Iglesias/Human Animations/Animations/Female/Social/Conversation/HumanF@Talk01.fbx",
+      "name": "HumanF@Talk01",
+      "length": 2.266666889190674,
+      "humanoid": true,
+      "loop": false
+    }
+  ],
+  "images": [
+    "Images/synty-character-options.png",
+    "Images/synty-animation-review.gif",
+    "Images/synty-state-poses-1.png",
+    "Images/synty-state-poses-2.png",
+    "Images/synty-run-glove-layer.png"
+  ],
+  "errors": [],
+  "checkedOn": "2026-10-27",
+  "scope": "별도 Unity 6000.6.0f1 URP 17.6 프로젝트. Starter_03에 17개 원본 동작 후보와 달리기 및 장갑 상체 마스크 혼합 포즈를 확인했다. 제품 Animator와 온라인 게임 실행은 구현 전이다.",
+  "selectedCharacter": "Starter_03 SF 갑옷형 검수 기준. 최종 플레이어 외형은 사용자 시각 승인 전이다.",
+  "dependencyFix": {
+    "problem": "Sidekick 기본 팩만 도입하면 전용 셰이더 참조가 없어 분홍색으로 렌더링됐다.",
+    "source": "https://github.com/SyntyStudios/SidekicksToolRelease/releases/tag/1.2.8",
+    "fix": "공식 Sidekicks.unitypackage 1.2.8에서 원래 GUID의 Sidekick_ShaderGraph.shadergraph와 meta를 검수 프로젝트에 도입했다. 캐릭터 제작 도구의 전체 코드와 데이터베이스는 실행하지 않았다.",
+    "shaderPath": "Assets/Synty/SidekickCharacters/Resources/Shaders/Sidekick_ShaderGraph.shadergraph"
+  },
+  "sourcePackages": [
+    {
+      "name": "FREE Starter Pack - Sidekick Modular Characters by Synty",
+      "bytes": 45694960,
+      "sha256": "479a33b04b4f4672b2f8cf59cd7c9c6a17967be181798e321194ed2cf058c6c8"
+    },
+    {
+      "name": "POLYGON - Starter Pack - Art by Synty",
+      "bytes": 114664154,
+      "sha256": "3b4d9186c486b03a0388d96eb15b7ff30072fac1dac54c62d4ef89f80aee9c47"
+    },
+    {
+      "name": "Human Basic Motions FREE",
+      "bytes": 16074017,
+      "sha256": "b643840ec91e711cd2368fe0a2062ad4f78242f8700685ec4da88132eb690b7a"
+    },
+    {
+      "name": "Human Melee Animations FREE",
+      "bytes": 13346000,
+      "sha256": "4da54eff565365fa4e041285d4f5ad1bdc54a071c1158ed0c62def0d7d45adae"
+    },
+    {
+      "name": "Human Spellcasting Animations FREE",
+      "bytes": 17704981,
+      "sha256": "7390245dbbea7f38e92b4f39263801ca9cacafda9036e37ca34cdd5e391cfe42"
+    }
+  ],
+  "observedImportButtonVersions": {
+    "Sidekick": "1.0.3",
+    "Basic": "2.4.2",
+    "Melee": "2.0.0",
+    "Spellcasting": "1.0",
+    "POLYGON": "1.2.1"
+  },
+  "versionNote": "스토어 최신 표시와 다운로드 후 Import 버튼 표시를 구분했다. 파일 재현은 SHA-256을 기준으로 한다.",
+  "notVerified": [
+    "제품 프로젝트의 Animator 전이와 피격 중단",
+    "3초 구조의 유지 및 취소와 두 캐릭터의 접촉",
+    "손 무기와 타격 판정 접촉",
+    "고정 장치와 손 접촉",
+    "호스트 및 참가자의 동작 동기화",
+    "실시간 프레임 성능과 메모리 예산"
+  ]
+}
