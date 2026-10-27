@@ -2332,7 +2332,8 @@
     "Images/synty-animation-review.gif",
     "Images/synty-state-poses-1.png",
     "Images/synty-state-poses-2.png",
-    "Images/synty-run-glove-layer.png"
+    "Images/synty-run-glove-layer.png",
+    "Images/synty-walk-review.gif"
   ],
   "errors": [],
   "checkedOn": "2026-10-27",
@@ -2386,5 +2387,14 @@
     "고정 장치와 손 접촉",
     "호스트 및 참가자의 동작 동기화",
     "실시간 프레임 성능과 메모리 예산"
-  ]
+  ],
+  "walkingReview": {
+    "clip": "HumanM@Walk01_Forward",
+    "clipLengthSeconds": 0.8000000715255737,
+    "loop": true,
+    "gifFps": 25,
+    "frames": 20,
+    "applyRootMotion": false,
+    "scope": "Starter_03의 제자리 모션 확인. 제품 이동 속도와 접지 및 걷기 달리기 전환은 검수 전이다."
+  }
 }
