@@ -1,0 +1,115 @@
+{
+  "checkedOn": "2026-10-27",
+  "projectPath": "SoloProject/Assets",
+  "editorVersion": "6000.6.0f1",
+  "activeSceneBefore": "Assets/Scenes/SampleScene.unity",
+  "activeSceneAfter": "Assets/Scenes/SampleScene.unity",
+  "sceneDirtyBefore": false,
+  "sceneDirtyAfter": false,
+  "succeeded": true,
+  "importedAssets": 2019,
+  "clipRecords": 313,
+  "humanoidClips": 313,
+  "prefabCount": 561,
+  "characters": [
+    {
+      "path": "Assets/ThirdPartyArt/Synty/SidekickCharacters/Characters/HumanSpecies/HumanSpecies_04/HumanSpecies_04.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    },
+    {
+      "path": "Assets/ThirdPartyArt/Synty/PolygonStarter/Prefabs/Characters/SM_Chr_Male_01.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 2,
+      "shaders": [
+        "Synty/Generic_Basic"
+      ]
+    },
+    {
+      "path": "Assets/ThirdPartyArt/Synty/SidekickCharacters/Characters/Starter/Starter_02/Starter_02.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    },
+    {
+      "path": "Assets/ThirdPartyArt/Synty/SidekickCharacters/Characters/HumanSpecies/HumanSpecies_03/HumanSpecies_03.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    },
+    {
+      "path": "Assets/ThirdPartyArt/Synty/SidekickCharacters/Characters/HumanSpecies/HumanSpecies_02/HumanSpecies_02.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    },
+    {
+      "path": "Assets/ThirdPartyArt/Synty/PolygonStarter/Prefabs/Characters/SM_Chr_Female_01.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 2,
+      "shaders": [
+        "Synty/Generic_Basic"
+      ]
+    },
+    {
+      "path": "Assets/ThirdPartyArt/Synty/SidekickCharacters/Characters/Starter/Starter_03/Starter_03.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    },
+    {
+      "path": "Assets/ThirdPartyArt/Synty/SidekickCharacters/Characters/Starter/Starter_01/Starter_01.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    },
+    {
+      "path": "Assets/ThirdPartyArt/Synty/SidekickCharacters/Characters/Starter/Starter_04/Starter_04.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    },
+    {
+      "path": "Assets/ThirdPartyArt/Synty/SidekickCharacters/Characters/HumanSpecies/HumanSpecies_01/HumanSpecies_01.prefab",
+      "avatarValid": true,
+      "avatarHuman": true,
+      "renderers": 1,
+      "shaders": [
+        "Shader Graphs/Sidekick_ShaderGraph"
+      ]
+    }
+  ],
+  "errors": [],
+  "missingScripts": [],
+  "missingShaders": [],
+  "sourceFileVerification": {
+    "files": 3880,
+    "missing": 0,
+    "duplicateGuids": 0,
+    "normalizedMaterials": 8
+  }
+}
