@@ -53,11 +53,11 @@ Thumbs.db
 /ServerData/
 
 # Third-party art and animation source files are installed locally.
-# /Assets/ThirdPartyArt/
-# /Assets/ThirdPartyArt.meta
-# /Assets/ReviewSandbox/
-# /Assets/ReviewSandbox.meta
-# /Assets/Synty/
-# /Assets/Synty.meta
-# /Assets/Kevin Iglesias/
-# /Assets/Kevin Iglesias.meta
+/Assets/ThirdPartyArt/
+/Assets/ThirdPartyArt.meta
+/Assets/ReviewSandbox/
+/Assets/ReviewSandbox.meta
+/Assets/Synty/
+/Assets/Synty.meta
+/Assets/Kevin Iglesias/
+/Assets/Kevin Iglesias.meta
